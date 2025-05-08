@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-doppelganger
+  x-cortex-tag: monster-doppelganger
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: monstrosity
+    challenge_rating: 3
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
